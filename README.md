@@ -1,4 +1,4 @@
 # hackerrank-30-days-of-code
 
-30 days of code Python
+30 days of Python 🐍
 
