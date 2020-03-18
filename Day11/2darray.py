@@ -5,7 +5,7 @@ arr = [[1 ,1,1, 0, 0, 0],
        [0 ,0, 0, 2, 0, 0],
        [0 ,0 ,1 ,2 ,4 ,0]]
 
-maxNum = -9 * 7
+maxNum = -9 * 7 #Hourglass got 7 elements and in the range of -9 to +9
 for row in range(4):
     for coloumn in range(4):
         a = arr[row][coloumn]
